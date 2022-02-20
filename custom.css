@@ -1,0 +1,71 @@
+.carousel-caption{
+    padding-bottom:4.25rem;
+}
+
+.price{
+    display: block;
+    cursor:pointer;
+    transition: all .5s ease-in-out;
+}
+.price:hover{
+    transform: scale(1.02);
+    transition-timing-function: ease;
+    }
+
+
+footer{
+
+   
+    padding: 10px 30px;
+    align-items: center;
+}
+
+.newsletter{
+  
+    background: #d1ffe9;
+    padding:15px;
+   
+}
+
+.subscribe{
+    text-align: center;
+    max-width: 800px;
+    margin:20px auto;
+   
+}
+
+input{
+    width:90%;
+    padding: 12px;
+    border: 1px solid #198754;
+    border-radius: 50px;
+  background-color: #d4fcea31;
+    box-sizing: border-box;
+    margin-top: 6px;
+    font-size: 14px;
+    margin-bottom: 16px;
+  
+}
+
+.fas{
+    color:#198754;
+}
+.clients{
+    display: block;
+    transition: all .5s ease-in-out;
+
+}
+.clients:hover{
+    transform: scale(1.05);
+    transition-timing-function: ease;
+ 
+}
+
+.ouralbum{
+    transition: all .5s ease-in-out;
+}
+.ouralbum:hover{
+    transform: scale(1.05);
+    transition-timing-function: ease;
+ 
+}
